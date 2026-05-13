@@ -1,3 +1,45 @@
+# 📊 Google Analytics (GA4) Setup Notes
+
+This document explains how Google Analytics 4 (GA4) was configured for the Digital Marketing Analytics Dashboard project.
+
+---
+
+# 🎯 Objective
+
+To collect website interaction data including:
+- User behavior
+- Traffic sources
+- Engagement metrics
+- Conversion tracking
+- Revenue performance (demo data)
+
+---
+
+# 🧩 Step 1: Create GA4 Account
+
+1. Go to Google Analytics:
+   https://analytics.google.com
+2. Click **Start Measuring**
+3. Create account:
+   - Account Name: Digital Marketing Analytics Project
+4. Create Property:
+   - Property Name: Marketing Dashboard 2026
+   - Time zone: Ireland (or user region)
+   - Currency: EUR or USD
+
+---
+
+# 🌐 Step 2: Create Web Data Stream
+
+1. Select **Web**
+2. Enter:
+   - Website Name: Demo Marketing Site
+   - Website URL: (GitHub Pages or test URL)
+3. Copy Measurement ID:
+   - Format: G-XXXXXXXXXX
+
+---
+
 # Google Analytics 4 Setup Notes
 
 This project uses a standard GA4 demo ecommerce dataset provided by Google for learning and analytics practice.
@@ -79,39 +121,3 @@ Steps:
 3. Select Google Analytics connector
 4. Choose Google Merchandise Store (GA4 Demo Property)
 5. Build dashboards using selected metrics and dimensions
-
----
-
-## 7. Dashboard Structure
-
-The dashboard is organized into three main layers:
-
-### 1. Acquisition Layer
-- Users
-- Sessions
-- New vs Returning Users
-
-### 2. Engagement Layer
-- Page Views
-- Session Duration
-- User interaction metrics
-
-### 3. Conversion Layer
-- Purchases / Conversions
-- Revenue
-- ROAS (if applicable)
-
----
-
-## 8. Notes
-
-- This is a demo dataset and does not represent real business data
-- It is ideal for learning, portfolio building, and analytics practice
-- No tracking implementation was required
-
----
-
-## 9. Tools Used
-
-- Google Analytics 4 (Google Merchandise Store Demo Account)
-- Looker Studio
