@@ -2,6 +2,9 @@
 
 This document explains the development of the Digital Marketing & Ecommerce Intelligence Dashboard built using Looker Studio.
 
+## Live Dashboard
+
+👉 [View Looker Studio Dashboard](https://datastudio.google.com/u/0/reporting/00b55288-8ebb-40d0-a8ee-58e631f3026c/page/T4YOB)
 ---
 
 ## 1. Tool Used
