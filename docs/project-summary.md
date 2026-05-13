@@ -36,37 +36,6 @@ To transform raw marketing and web analytics data into actionable business insig
 
 ---
 
-# 📈 Dashboard Components
-
-The dashboard includes:
-
-## 1. Traffic Overview
-- Total sessions
-- New users
-- User growth trends
-
-## 2. Acquisition Analysis
-- Organic vs Paid traffic
-- Top traffic sources
-- Campaign performance
-
-## 3. Revenue Analysis
-- Total revenue trends
-- Revenue by channel
-- Conversion performance
-
-## 4. Geographic Insights
-- Top countries
-- City-level performance
-- Regional conversion trends
-
-## 5. User Behavior
-- Device breakdown
-- Browser usage
-- Engagement trends
-
----
-
 # 🧠 Key Insights
 
 - Traffic is strong but revenue is declining
