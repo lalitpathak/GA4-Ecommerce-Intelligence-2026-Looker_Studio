@@ -48,6 +48,10 @@ Modern digital businesses struggle with:
 This project is structured into 5 analytical BI pages:
 
 ---
+##  GA4-Connection for Live data
+
+![Intelligence](assets/GA_4_connection.png)
+
 
 ## 🧠 01. Intelligence Overview
 
